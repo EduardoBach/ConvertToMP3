@@ -1,0 +1,15 @@
+{
+  "name": "mp4tomp3",
+  "version": "1.0.0",
+  "description": "Conversor de Video para Audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "path": "^0.12.7"
+  }
+}
